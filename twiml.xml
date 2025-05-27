@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="id-ID">
+    Peringatan darurat. Kecelakaan telah terdeteksi. Notifikasi telah dikirim ke Telegram.
+  </Say>
+</Response>
